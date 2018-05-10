@@ -11,7 +11,7 @@ $ git clone https://github.com/kellyjacksonio/weather-reader.git
 $ cd weather-reader
 $ npm install
 ```
-After that, the `config.DARKSKY_KEY` variable in the `script.js` file must be replaced with a working Dark Sky API key from the [Dark Sky Website]().
+After that, the `config.DARKSKY_KEY` variable in the `script.js` file must be replaced with a working Dark Sky API key from the [Dark Sky Website](https://darksky.net/dev).
 
 Finally, use the command line below to run the program and enjoy getting your very specific weather.
 
