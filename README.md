@@ -4,7 +4,7 @@ Web application that uses the browser's geolocation API to determine your local 
 
 ## Installation and Setup Instructions
 
-Use the three command lines below to clone the repository and download dependencies. You will need `node` installed globally on your machine. Your browser also needs to have CORS (cross-enabled resource sharing) enabled. See more about CORS[here](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS).
+Use the three command lines below to clone the repository and download dependencies. You will need `node` installed globally on your machine. Your browser also needs to have CORS (cross-enabled resource sharing) enabled. See more about CORS [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS).
 
 ```
 $ git clone https://github.com/kellyjacksonio/weather-reader.git
