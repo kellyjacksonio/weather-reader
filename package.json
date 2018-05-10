@@ -1,0 +1,25 @@
+{
+  "name": "weather-reader",
+  "version": "1.0.0",
+  "description": "Uses the geolocation API to determine your local weather with an exciting, dynamic GIF background based on the time of day/current weather.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellyjacksonio/weather-reader.git"
+  },
+  "author": "kellyjacksonio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellyjacksonio/weather-reader/issues"
+  },
+  "homepage": "https://github.com/kellyjacksonio/weather-reader#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "path": "^0.12.7"
+  }
+}

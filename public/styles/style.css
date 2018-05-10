@@ -1,0 +1,33 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+	background-color: #000;
+  font-size: 24px;
+  cursor: default;
+  font-family: "Press Start 2P";
+  line-height: 250%;
+  color: #fff;
+}
+
+h1 {
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+
+span {
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
