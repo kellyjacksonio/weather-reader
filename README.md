@@ -1,6 +1,6 @@
 # Weather Reader
 
-Web application that uses the browser's geolocation API to determine your local weather with an exciting GIF background based on the time of day/current weather. Built with HTML, CSS, JS, jQuery, and the Dark Sky API.
+Web application that uses the browser's geolocation API to determine your local weather with an exciting GIF background based on the time of day/current weather. Built with Node.js, JS, jQuery, CSS, and the Dark Sky API.
 
 ## Installation and Setup Instructions
 
